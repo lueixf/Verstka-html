@@ -237,7 +237,7 @@ h2, h3 {
     grid-area: footer;
   }
 
-.dgig{
+.digh{
     display: flex;
     flex-wrap: wrap;
     margin-top: 120px;
@@ -247,18 +247,18 @@ h2, h3 {
     width: 650px;
     height: 55px;
 }
-.omg{
+.wow{
     width: 650px;
     height: 122px;
     display: flex;
     flex-direction: column;
     margin-bottom: 65px;
 }
-.banan{
+.bbl{
     font-size: 42px;
     color: #1F1F1F;
 }
-.capa{
+.tuda{
     font-size: 25px;
     color: #1F1F1F;
 }
@@ -272,7 +272,7 @@ h2, h3 {
     padding-bottom: 80px;
 
 }
-.girl{
+.AAA{
     display: grid;
     grid-template-columns: repeat(4, 355px);
     grid-template-rows: repeat(1, 500px);
@@ -281,22 +281,22 @@ h2, h3 {
       "content 👾 footer";
   }
   
-  .aga1 {
+  .a1 {
     grid-area: content;
     background-color: #FFFFFF;
   }
   
-  .aga2 {
+  .a2 {
     grid-area: 👾;
     background-color: #FFFFFF;
   }
   
-  .aga3 {
+  .a3 {
     grid-area: footer;
     background-color: #FFFFFF;
   }
 
-.glorbo{
+.vaporesso{
     font-size: 42px;
     color: #1F1F1F;
     margin-bottom: 50px;
@@ -312,18 +312,18 @@ h2, h3 {
     margin-bottom: 8px;
     margin-left: 25px;
 }
-.mao{
+.b0{
     height: 63px;
     width: 293px;
     margin-left: 24px;
 }
-.mao1{
+.b1{
     height: 19px;
     width: 307px;
     margin-left: 24px;
     margin-top: 13px;
 }
-.mao2{
+.b2{
     height: 57px;
     width: 312px;
     margin-left: 24px;
@@ -332,12 +332,12 @@ h2, h3 {
     height: 54px;
     width: 550px;
 }
-.trala{
+.inst{
     height: 370px;
     width: 1130px;
     background-color: #E6F7FF;
 }
-.crocodilo{
+.tgk{
     height: 258px;
     width: 480px;
     margin-left: 64px;
@@ -368,13 +368,13 @@ h2, h3 {
     height: 216px;
     width: 1130px;
 }
-.nooo{
-    color: #0070A0;
+.ohno{
+    color: #235fdfc4;
 }
 
 
 
- .girl2{
+ .AAA2{
     display: grid;
     grid-template-columns: repeat(4, auto);
     grid-template-rows: repeat(1, );
@@ -389,41 +389,47 @@ h2, h3 {
     width: 432px;
   }
 
-  .aga6 {
+  .a6 {
     grid-area: 👾;
     height: 216px;
     width: 216px;
   }
   
-  .aga7 {
+  .a7 {
     grid-area: good;
     height: 216px;
     width: 216px;
   }
-  .aga8{
+  .a8{
     grid-area: footer;
     height: 216px;
     width: 216px;
   }
 
-.gggoo{
+.pfff{
     height: 72px;
     width: 180px;
 }
-.asas{
+.pip{
     font-family: "Inter", sans-serif;
     color: #626A72;
 } 
-.barabul{
+.pip a{
+    color: #0c6a92ce;
+}
+.baam{
     margin-top: 64px;
+    
 }
 .booom{
     display: flex;
     justify-content: space-between;
     margin-top: 36px;
+
 }
 .god{
     margin-left: 20px;
+    
 }
 .ffffss{
     line-height: 0.19;
